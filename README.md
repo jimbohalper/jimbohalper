@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Omotoso Oluwapelumi
-- 👀 I’m interested in Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on data analytics and other related fields.
+- 👀 I’m interested in Data Analysis
 - 📫 How to reach me: email: omotosomololuwa@gmail.com
 
 <!---
