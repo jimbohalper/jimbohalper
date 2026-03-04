@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omotoso Oluwapelumi
-- 👀 I’m interested in Data Analysis
+- 👀 CCNA holders looking for roles in engineering.
 - 📫 How to reach me: email: omotosomololuwa@gmail.com
 
 <!---
