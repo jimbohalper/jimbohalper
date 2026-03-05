@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omotoso Oluwapelumi
-- 👀 CCNA holders looking for roles in engineering.
+- 👀 CCNA holder looking for roles in engineering.
 - 📫 How to reach me: email: omotosomololuwa@gmail.com
 
 <!---
